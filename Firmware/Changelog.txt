@@ -1,0 +1,16 @@
+Changelog
+
+1.8
+
+Initial release on controller launch
+
+Core functionality for Vectrex and PC/USB
+
+1.14
+
+First public update
+
+* Improved USB Joystick latency
+* Added Vectrex Menu Navigation mode
+* Start button LED flashes twice normal rate when controller is placed into debug mode
+* Code refactoring to improve maintainability of mode handling
