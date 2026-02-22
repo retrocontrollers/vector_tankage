@@ -1,12 +1,12 @@
 Changelog
 
-1.8
+V1.8
 
 Initial release on controller launch
 
 Core functionality for Vectrex and PC/USB
 
-1.14
+22 February 2026 - V1.14
 
 First public update
 
