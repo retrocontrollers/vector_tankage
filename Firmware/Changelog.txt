@@ -11,6 +11,10 @@ Core functionality for Vectrex and PC/USB
 First public update
 
 * Improved USB Joystick latency
-* Added Vectrex Menu Navigation mode
+* Added Vectrex Menu Navigation mode (see details below)
 * Start button LED flashes twice normal rate when controller is placed into debug mode
 * Code refactoring to improve maintainability of mode handling
+
+Vectrex Menu Navigation mode
+
+This mode uses left stick for up/down and right stick for left/right to aid in navigating any menus
