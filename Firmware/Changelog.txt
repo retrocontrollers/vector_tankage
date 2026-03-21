@@ -18,3 +18,9 @@ First public update
 Vectrex Menu Navigation mode
 
 This mode uses left stick for up/down and right stick for left/right to aid in navigating any menus
+
+21 March 2026 - V1.15
+
+Bugfix
+
+* Fixed an issue with the Vectrex Menu Navigation mode
